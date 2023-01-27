@@ -1,7 +1,7 @@
 # freecad installation
 ubuntu 20.04
 ```
-sudo snap install
+sudo snap install freecad
 sudo snap install qt515-core20
 ```
 add this line in .bashrc with:
